@@ -1,0 +1,11 @@
+{
+  "name": "figcraft-app",
+  "version": "0.1.0",
+  "description": "Skills for designing with the FigCraft app through its MCP server: create screens and components, build and audit design systems, lint and review, sync DTCG tokens, prototype analysis, handoff and design-to-code. Registers the figcraft (headless) and figcraft-app (attached) servers.",
+  "author": {
+    "name": "Brian",
+    "email": "brian@nestgenomics.com"
+  },
+  "license": "MIT",
+  "keywords": ["figcraft", "design", "ui", "design-system", "tokens", "mcp"]
+}

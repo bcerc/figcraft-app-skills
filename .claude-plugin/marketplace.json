@@ -1,0 +1,16 @@
+{
+  "name": "figcraft-app-skills",
+  "owner": {
+    "name": "Brian",
+    "email": "brian@nestgenomics.com"
+  },
+  "description": "FigCraft app design skills for Claude Code.",
+  "plugins": [
+    {
+      "name": "figcraft-app",
+      "source": "./",
+      "description": "Skills for designing with the FigCraft app through its MCP server.",
+      "version": "0.1.0"
+    }
+  ]
+}
